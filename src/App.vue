@@ -36,7 +36,7 @@ const fetchTrack = async () => {
     <h1 class="text-2xl">lislog</h1>
     <p>taking note with Spotify musics.</p>
   </header>
-  <main class="container max-w-[640px] mt-4 mb-12 mx-auto">
+  <main class="container max-w-[640px] mt-4 mb-12 px-2 mx-auto">
     <section>
       <fieldset class="fieldset">
         <legend class="fieldset-legend">Spotify URL</legend>
